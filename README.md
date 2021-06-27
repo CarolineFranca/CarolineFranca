@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">  Bem-vindo ao meu mundo! <img align="center" alt="GIF" width="40px" src="https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif"/>  </h1> 
 
-<!--
-**CarolineFranca/CarolineFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img alt="GIF" width="150px" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"/>  </p>
 
-Here are some ideas to get you started:
+<h3 align="center"> Eu sou a Caroline   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+</h3>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolineFranca&show_icons=true&theme=radical)
+
+ <p align="center"> <img alt="GIF" align="center" width="300px" src="https://media.giphy.com/media/ggbmM78l4zlLiTheSU/giphy.gif"> </p> -->
