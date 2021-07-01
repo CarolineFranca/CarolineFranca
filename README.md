@@ -31,6 +31,6 @@
   <h3> </h3>
 
  <img alt="GIF" align="right" width="80px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif"/>
- <a href="https://www.linkedin.com/in/caroline-franca/">
+ <a href="https://www.linkedin.com/in/caroline-franca/"  target="blank">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="100"/> 
  <a/>
