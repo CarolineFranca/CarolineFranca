@@ -1,9 +1,8 @@
-<h1 align="left">  Bem-vindo ao meu mundo! <img align="center" alt="GIF" width="40px" src="https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif"/>  </h1> 
+<img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> 
+<img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="50" align="left"> <h1>Hey There!</h1>
+<br><br><br>
 
-<p align="left"><img alt="GIF" width="150px" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"/>  </p>
 
-<h3 align="left"> Eu sou a Caroline </h3>
-<h4> Apaixonada por programação 💜 </h4>
 
  
  <a href="#">
@@ -32,5 +31,5 @@
 
  <img alt="GIF" align="right" width="80px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif"/>
  <a href="https://www.linkedin.com/in/caroline-franca/"  target="blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="100"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="50"/> 
  <a/>
