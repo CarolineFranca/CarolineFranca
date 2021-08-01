@@ -1,9 +1,9 @@
-<img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> 
+<img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/> 
 <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="80" align="left"> <h1>Hey There!</h1>
-<br>
+<br> <br>
 
  ✔ Apaixonada por Front-End <br>
- ✔ Me desenvolvendo em HTML, CSS, JavaScript e ReactJS <br> 
+ ✔ Me desenvolvendo em HTML, CSS, JavaScript e ReactJS  <br> <br>
   
  <a href="#">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40"/> 
