@@ -1,10 +1,10 @@
 <img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> 
-<img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="50" align="left"> <h1>Hey There!</h1>
-<br><br><br>
+<img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="80" align="left"> <h1>Hey There!</h1>
+<br>
 
-
-
- 
+ ✔ Apaixonada por Front-End <br>
+ ✔ Me desenvolvendo em HTML, CSS, JavaScript e ReactJS <br> 
+  
  <a href="#">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40"/> 
  </a>
@@ -31,5 +31,5 @@
 
  <img alt="GIF" align="right" width="80px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif"/>
  <a href="https://www.linkedin.com/in/caroline-franca/"  target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="50"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40"/> 
  <a/>
