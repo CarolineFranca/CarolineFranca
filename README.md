@@ -30,6 +30,6 @@
   <h3> </h3>
 
  <img alt="GIF" align="right" width="80px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif"/>
- <a href="https://www.linkedin.com/in/caroline-franca/"  target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40"/> 
- <a/>
+   <a href="https://www.linkedin.com/in/caroline-franca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+   ![Snake animation](https://github.com/carolinefranca/carolinefranca/blob/output/github-contribution-grid-snake.svg)
