@@ -14,6 +14,9 @@
  <a href="#">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JAVASCRIPT" width="40"/> 
  <a/>&nbsp;
+  <a href="#">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="CSS" width="40"/> 
+ <a/>&nbsp;
  <a href="#">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="BULMA" width="40"/>
   </a>
