@@ -3,7 +3,6 @@
 <br> <br>
 
  ✔ Apaixonada por aprender sobre tecnologia <br>
- ✔ Me desenvolvendo em HTML, CSS, JavaScript e ReactJS  <br> <br>
   
  <a href="#">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40"/> 
@@ -28,6 +27,9 @@
  <a/>&nbsp;
  <a href="#">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> 
+ <a/>&nbsp;
+  <a href="#">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
  <a/>&nbsp;
  
   <h3> </h3>
