@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="50" align="left"> <h1>Hey There!</h1>
 <br> <br>
 
- ✔ Apaixonada por Front-End <br>
+ ✔ Apaixonada por aprender sobre tecnologia <br>
  ✔ Me desenvolvendo em HTML, CSS, JavaScript e ReactJS  <br> <br>
   
  <a href="#">
