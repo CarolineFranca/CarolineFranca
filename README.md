@@ -28,10 +28,7 @@
  <a href="#">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> 
  <a/>&nbsp;
-  <a href="#">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
- <a/>&nbsp;
- 
+
   <h3> </h3>
 
  <img alt="GIF" align="right" width="80px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif"/>
