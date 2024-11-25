@@ -5,6 +5,7 @@
  <h4> - Cucumber </h4>
  <h4> - Selenium </h4>
  <h4> - JavaScript </h4>
+ <h4> - Jira </h4>
  <br> <br>
  
 
